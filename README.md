@@ -48,6 +48,6 @@ There should be dashes at the bottom of each problem. The dashes should run alon
 Development
 Write your code in arithmetic_arranger.py. For development, you can use main.py to test your arithmetic_arranger() function. Click the "run" button and main.py will run.
 
-Challenge Acceted.
+Challenge Accepted.
 
 
